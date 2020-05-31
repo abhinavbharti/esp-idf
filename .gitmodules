@@ -94,3 +94,9 @@
 [submodule "components/tinyosc"]
 	path = components/tinyosc
 	url = https://github.com/abhinavbharti/esp32-tinyosc.git
+[submodule "components/esp-sr"]
+	path = components/esp-sr
+	url = https://github.com/abhinavbharti/esp-sr.git
+[submodule "components/fb_gfx"]
+	path = components/fb_gfx
+	url = https://github.com/abhinavbharti/esp32-fb_gfx.git
