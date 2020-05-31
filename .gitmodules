@@ -82,3 +82,15 @@
 [submodule "components/tinyusb/tinyusb"]
 	path = components/tinyusb/tinyusb
 	url = ../../espressif/tinyusb.git
+[submodule "components/I2Cbus"]
+	path = components/I2Cbus
+	url = https://github.com/abhinavbharti/esp32-I2Cbus.git
+[submodule "components/Invn"]
+	path = components/Invn
+	url = https://github.com/abhinavbharti/Invensense.git
+[submodule "components/SPIbus"]
+	path = components/SPIbus
+	url = https://github.com/abhinavbharti/esp32-SPIbus.git
+[submodule "components/tinyosc"]
+	path = components/tinyosc
+	url = https://github.com/abhinavbharti/esp32-tinyosc.git
